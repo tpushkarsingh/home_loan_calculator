@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/homeloan_calculator/static/js/main.aa89ce08.js",
-    "index.html": "/homeloan_calculator/index.html",
-    "main.aa89ce08.js.map": "/homeloan_calculator/static/js/main.aa89ce08.js.map"
+    "main.js": "/static/js/main.aa89ce08.js",
+    "index.html": "/index.html",
+    "main.aa89ce08.js.map": "/static/js/main.aa89ce08.js.map"
   },
   "entrypoints": [
     "static/js/main.aa89ce08.js"
